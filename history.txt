@@ -1,0 +1,1000 @@
+ 1296  ls
+ 1297  cd DD43-1903
+ 1298  ls
+ 1299  mv * ~
+ 1300  ls
+ 1301  cd /media/
+ 1302  ls
+ 1303  cd m_pure_me
+ 1304  ls
+ 1305  cd DD43-1903
+ 1306  ls
+ 1307  cd /media/m_pure_me
+ 1308  ls
+ 1309  cd DD43-1903
+ 1310  ls
+ 1311  file ~/
+ 1312  file ~
+ 1313  mv * ~
+ 1314  clear
+ 1315  ls
+ 1316  mv Camera ~
+ 1317  ls
+ 1318  cd /
+ 1319  ls
+ 1320  cd bin
+ 1321  ls
+ 1322  rm -R google-chrome google-chrome-stable
+ 1323  dpkg -h
+ 1324  dpkg --h
+ 1325  dpkg --help
+ 1326  sudo dpkg --remove google-chrome
+ 1327  sudo dpkg --remove google-chrome-stable
+ 1328  file /lib
+ 1329  file /usr/lib
+ 1330  file usr/lib
+ 1331  file /usr/local/lib
+ 1332  clar
+ 1333  clear
+ 1334  cd /usr
+ 1335  ls
+ 1336  cd /lib
+ 1337  ls
+ 1338  clear
+ 1339  cd ..
+ 1340  ls
+ 1341  file /usr/local
+ 1342  cd local
+ 1343  pwd
+ 1344  cd /usr
+ 1345  ls
+ 1346  cd local
+ 1347  ls
+ 1348  cd /
+ 1349  cd
+ 1350  clear
+ 1351  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1352  clear
+ 1353  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1354  clear
+ 1355  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1356  clear
+ 1357  ls
+ 1358  clear
+ 1359  shutdown
+ 1360  man nm
+ 1361  python3
+ 1362  clear
+ 1363  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1364  clear
+ 1365  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1366  clear
+ 1367  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1368  clear
+ 1369  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1370  ./token
+ 1371  sudo apt update
+ 1372  sudo apt upgrade
+ 1373  sudo apt update
+ 1374  sudo apt upgrade
+ 1375  sudo apt update
+ 1376  clear
+ 1377  sudo apt update
+ 1378  sudo apt install apache2
+ 1379  cleaar
+ 1380  clear
+ 1381  cd /var/www/html
+ 1382  ls
+ 1383  viindex.html
+ 1384  vi index.html
+ 1385  rm index.html
+ 1386  vi index.html
+ 1387  rm index.html
+ 1388  vi index.html
+ 1389  ls
+ 1390  sudo vi index.html
+ 1391  clear
+ 1392  ls
+ 1393  vi index.html
+ 1394  ls
+ 1395  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1396  clear
+ 1397  ls
+ 1398  clear
+ 1399  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1400  clear
+ 1401  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1402  ./token
+ 1403  sudo apt update
+ 1404  clear
+ 1405  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1406  clear
+ 1407  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1408  clear
+ 1409  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1410  ./token
+ 1411  sudo apt update
+ 1412  clear
+ 1413  reboot
+ 1414  uname
+ 1415  uname -a
+ 1416  uname --help
+ 1417  uname -i
+ 1418  uname -im
+ 1419  uname -m
+ 1420  uname -o
+ 1421  uname -o --version
+ 1422  sudo apt update
+ 1423  clear
+ 1424  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1425  clear
+ 1426  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1427  ./token
+ 1428  clear
+ 1429  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1430  clear
+ 1431  ls
+ 1432  cd
+ 1433  clear
+ 1434  python3
+ 1435  clear
+ 1436  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1437  clear
+ 1438  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1439  clear
+ 1440  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1441  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1442  clear
+ 1443  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1444  clear
+ 1445  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1446  clear
+ 1447  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1448  clear
+ 1449  ls
+ 1450  clear
+ 1451  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1452  clear
+ 1453  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1454  ./token
+ 1455  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1456  clear
+ 1457  sudo apt update
+ 1458  clear
+ 1459  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1460  clear
+ 1461  python3
+ 1462  clear
+ 1463  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1464  clear
+ 1465  python3
+ 1466  clear
+ 1467  python3
+ 1468  ./token
+ 1469  python3
+ 1470  clear
+ 1471  python3
+ 1472  ./token
+ 1473  python3
+ 1474  ./token
+ 1475  clear
+ 1476  python3
+ 1477  ./token
+ 1478  python3
+ 1479  ./token
+ 1480  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1481  clear
+ 1482  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1483  clear
+ 1484  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1485  clear
+ 1486  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1487  clear
+ 1488  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1489  clear
+ 1490  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1491  clear
+ 1492  sudo apt update
+ 1493  clear
+ 1494  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1495  :wq
+ 1496  clear
+ 1497  vi add_int.py
+ 1498  ls
+ 1499  chmod add_int.py
+ 1500  chmod u+x add_int.py
+ 1501  python3
+ 1502  vi add_test.txt
+ 1503  doctest.testfile(add_test.txt)
+ 1504  doctest.testfile('add_test.txt')
+ 1505  doctest.testfile("add_test.txt")
+ 1506  clear
+ 1507  python3
+ 1508  vi add_test.txt
+ 1509  python3
+ 1510  clear
+ 1511  python3
+ 1512  vi add_test.txt
+ 1513  python3
+ 1514  clear
+ 1515  python -m doctest -v add_test.txt
+ 1516  python3 -m doctest -v add_test.txt
+ 1517  python3
+ 1518  vi add_test.txt
+ 1519  python -m doctest -v add_test.txt
+ 1520  python3 -m doctest -v add_test.txt
+ 1521  python3
+ 1522  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1523  ./token
+ 1524  clear
+ 1525  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1526  cd
+ 1527  ls
+ 1528  mv 2_166CE8976CE87343 External_HD
+ 1529  ls
+ 1530  cd External_HD
+ 1531  ls
+ 1532  ls *.mp
+ 1533  ls '*.mp'
+ 1534  ls '*.mp3
+ 1535  ls *.mp3
+ 1536  ls *.3
+ 1537  clear
+ 1538  ls
+ 1539  ls | less
+ 1540  clear
+ 1541  cd ..
+ 1542  ls
+ 1543  cd ART_L29
+ 1544  ls
+ 1545  wp2492371.png
+ 1546  sudo wp2492371.png
+ 1547  cd ..
+ 1548  clear
+ 1549  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1550  clear
+ 1551  sudo apt update
+ 1552  clear
+ 1553  sudo apt update
+ 1554  clear
+ 1555  sudo apt update
+ 1556  clear
+ 1557  sudo apt update
+ 1558  clear
+ 1559  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1560  clear
+ 1561  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1562  ./token
+ 1563  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1564  sudo apt update
+ 1565  clear
+ 1566  sudo apt upadte
+ 1567  sudo apt update
+ 1568  clear
+ 1569  sudo apt update
+ 1570  clear
+ 1571  sudo apt update
+ 1572  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1573  clear
+ 1574  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1575  clear
+ 1576  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1577  clear
+ 1578  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1579  clear
+ 1580  sudo apt update
+ 1581  sudo apt upgrade
+ 1582  sudo apt update
+ 1583  clear
+ 1584  sudo apt upgrade
+ 1585  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1586  clear
+ 1587  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1588  clear
+ 1589  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1590  clear
+ 1591  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1592  clear
+ 1593  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1594  git init
+ 1595  rm -r .git
+ 1596  git status
+ 1597  clear
+ 1598  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1599  clear
+ 1600  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1601  clear
+ 1602  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1603  clear
+ 1604  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1605  ./token
+ 1606  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1607  python3
+ 1608  clear
+ 1609  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1610  clear
+ 1611  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1612  clear
+ 1613  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1614  ls
+ 1615  clear
+ 1616  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1617  clear
+ 1618  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1619  git --v
+ 1620  git --version
+ 1621  apt-get git
+ 1622  apt-get install git
+ 1623  clear
+ 1624  sudo apt-get install git
+ 1625  git --version
+ 1626  git --
+ 1627  sudo install git
+ 1628  sudo apt upgrade git
+ 1629  cd Downloads
+ 1630  ls
+ 1631  ls *.deb
+ 1632  cd /
+ 1633  cd tmp
+ 1634  ls
+ 1635  cd
+ 1636  wget -O vscode.deb 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64'
+ 1637  sudo apt install ./vscode
+ 1638  sudo apt install vscode
+ 1639  sudo dpkg -i vscode.deb
+ 1640  vscode
+ 1641  ./vscode
+ 1642  file .vimrc
+ 1643  ./vimrc
+ 1644  vi .vimrc
+ 1645  clear
+ 1646  vi winning.py
+ 1647  clear
+ 1648  vi .vimrc
+ 1649  clear
+ 1650  vi .vimrc
+ 1651  clear
+ 1652  ssh 862b102c0a03@bda61118.alx-cod.online
+ 1653  clear
+ 1654  python3 /home/m_pure_me/winning.py
+ 1655  clear
+ 1656  git remote add origin https://github.com/Kenneth-bit/hello-world.git
+ 1657  pwd
+ 1658  git init
+ 1659  git remote add origin https://github.com/Kenneth-bit/hello-world.git
+ 1660  git branch
+ 1661  git branch -l
+ 1662  git pull
+ 1663  git status
+ 1664  git add winning.py
+ 1665  git commit -m "Create winning.py"
+ 1666  git push -u origin master
+ 1667  git log
+ 1668  git request-pull origin master
+ 1669  git request-pull  master
+ 1670  git request-pull https://github.com/Kenneth-bit/hello-world.git master
+ 1671  git reset HEAD^1
+ 1672  clear
+ 1673  git request-pull -u origin master
+ 1674  /bin/python3 /home/m_pure_me/winning.py
+ 1675  alias python3='/bin/python3'
+ 1676  python3 /home/m_pure_me/winning.py
+ 1677  clear
+ 1678  python3 /home/m_pure_me/winning.py
+ 1679  vi winning.py
+ 1680  clear
+ 1681  python3 -c  /home/m_pure_me/winning.py
+ 1682  python3 -c winning.py
+ 1683  clear
+ 1684  python3 winning.py
+ 1685  python3 -c winning.py
+ 1686  python3 home/m_pure_me/ winning.py
+ 1687  python3 home/m_pure_me/winning.py
+ 1688  python3 /home/m_pure_me/winning.py
+ 1689  python3 -c /home/m_pure_me/winning.py
+ 1690  python3 -c home/m_pure_me/winning.py
+ 1691  file winnig.py
+ 1692  file winning.py
+ 1693  python3 /home/m_pure_me/winning.py
+ 1694  python --version
+ 1695  python3 --version
+ 1696  sudo apt upgrade python3
+ 1697  clear
+ 1698  python3 --version
+ 1699  vi hello_vs.py
+ 1700  chmod u+x hello_vs.py
+ 1701  ./hello_vs.py
+ 1702  clear
+ 1703  git status
+ 1704  git add winning.py
+ 1705  git commit -m "Update  winning.py"
+ 1706  git push -u origin master
+ 1707  file hello-world
+ 1708  git branch
+ 1709  git remote add origin https://github.com/Kenneth-bit/hello-world.git
+ 1710  git push -u origin main
+ 1711  pwd
+ 1712  mkdir hello-world
+ 1713  cd hello-world
+ 1714  git pull https://github.com/Kenneth-bit/hello-world.git
+ 1715  git remote add origin https://github.com/Kenneth-bit/hello-world.git
+ 1716  git status
+ 1717  git checkout -b master
+ 1718  clear
+ 1719  git init
+ 1720  git remote add origin https://github.com/Kenneth-bit/hello-world.git
+ 1721  git status
+ 1722  git log
+ 1723  clear
+ 1724  git pull https://github.com/Kenneth-bit/hello-world.git
+ 1725  git status
+ 1726  ls
+ 1727  vi README.md
+ 1728  git push -u origin -u origin master
+ 1729  git push -u origin -u origin main
+ 1730  git push -u origin master
+ 1731  git push -u origin main
+ 1732  git checkout -b edits
+ 1733  git branch
+ 1734  ls
+ 1735  vi README.md
+ 1736  git push -u origin master
+ 1737  git pull
+ 1738  git pull https://github.com/Kenneth-bit/hello-world.git
+ 1739  git branch
+ 1740  git add .
+ 1741  git commit -m "Edited README.md"
+ 1742  git push -u origin master
+ 1743  git checkout master
+ 1744  git status
+ 1745  git pull https://github.com/Kenneth-bit/hello-world.git
+ 1746  git push -u origin master
+ 1747  git pull https://github.com/Kenneth-bit/hello-world.git
+ 1748  clear
+ 1749  ls
+ 1750  touch important.md
+ 1751  git branch
+ 1752  git add important.md
+ 1753  git commit -m "important.md"
+ 1754  git push -u origin main
+ 1755  git push -u origin master
+ 1756  cd ..
+ 1757  ls
+ 1758  cd hello-world
+ 1759  ls
+ 1760  git pull https://github.com/Kenneth-bit/hello-world.git
+ 1761  git push 
+ 1762  git push -u origin master
+ 1763  clear
+ 1764  cd
+ 1765  rm -R hello-world
+ 1766  clear
+ 1767  mkdir test_repo
+ 1768  cd test_repo
+ 1769  ls
+ 1770  git init
+ 1771  git remote add origin https://github.com/Kenneth-bit/test_repo.git
+ 1772  ls
+ 1773  git pull https://github.com/Kenneth-bit/test_repo.git
+ 1774  ls
+ 1775  cat README.md
+ 1776  git branch
+ 1777  git branch -M main
+ 1778  git branch
+ 1779  clear
+ 1780  git status
+ 1781  git checkout -b readme-edits
+ 1782  git branch
+ 1783  ls
+ 1784  git push -u origin main
+ 1785  ls
+ 1786  clear
+ 1787  cat README.md
+ 1788  echo "Author : Kenneth-bit" >> README.md
+ 1789  cat README.md
+ 1790  git status
+ 1791  git branch
+ 1792  clear
+ 1793  git add .
+ 1794  git commit -m "EDIT ON EDITS"
+ 1795  git push -u origin main
+ 1796  git status
+ 1797  git pull https://github.com/Kenneth-bit/test_repo.git
+ 1798  ls
+ 1799  cat README,md
+ 1800  cat README.md
+ 1801  git checkout main
+ 1802  git status
+ 1803  git pull https://github.com/Kenneth-bit/test_repo.git
+ 1804  cat README.md
+ 1805  git merge readme-edits
+ 1806  git status
+ 1807  git push -u origin main
+ 1808  git checkout readme-edits
+ 1809  vi README.md
+ 1810  git merge master
+ 1811  git status
+ 1812  git add .
+ 1813  git commit -m "Last try"
+ 1814  cat README.md
+ 1815  git checkout main
+ 1816  cat README.md
+ 1817  git checkout readme-edits
+ 1818  git merge main
+ 1819  git status
+ 1820  cat README.md
+ 1821  git push main
+ 1822  git push -u origin  main
+ 1823  git status
+ 1824  cat README.md
+ 1825  git clone https://github.com/Kenneth-bit/test_repo.git
+ 1826  clear
+ 1827  ls
+ 1828  cd test_repo
+ 1829  cd ..
+ 1830  rm -R test_repo
+ 1831  clear
+ 1832  ls
+ 1833  mv test_repo _repo
+ 1834  cd _repo
+ 1835  cd test_repo
+ 1836  ls
+ 1837  cd ..
+ 1838  ls
+ 1839  rm -R test_repo
+ 1840  clear
+ 1841  ls
+ 1842  rm -R test_repo
+ 1843  clea
+ 1844  clear
+ 1845  git clone https://github.com/Kenneth-bit/test_repo.git
+ 1846  cd test_repo
+ 1847  ls
+ 1848  ls -al
+ 1849  git pull
+ 1850  ls
+ 1851  git pull https://github.com/Kenneth-bit/test_repo.git
+ 1852  clear
+ 1853  ls
+ 1854  git clone https://github.com/Kenneth-bit/test_repo.git
+ 1855  ls
+ 1856  cd test_repo
+ 1857  ls
+ 1858  cat README.md
+ 1859  git branch
+ 1860  git branch readme-edits
+ 1861  git branch
+ 1862  git checkout readme-edits
+ 1863  ls
+ 1864  cat README.md
+ 1865  vi README.md
+ 1866  clear
+ 1867  git branch
+ 1868  git checkout main
+ 1869  git status
+ 1870  git checkout readme-edits
+ 1871  ls
+ 1872  cat README.md
+ 1873  touch extra.txt
+ 1874  git status
+ 1875  git add extra.txt
+ 1876  git commit -m "Create extra.txt"
+ 1877  git status
+ 1878  git checkout main
+ 1879  git status
+ 1880  git checkout readme-edits
+ 1881  git merge main
+ 1882  ls
+ 1883  git push -u origin main
+ 1884  git status
+ 1885  git checkout main
+ 1886  git merge readme-edits
+ 1887  git status
+ 1888  git push -u origin main
+ 1889  cd..
+ 1890  cd ..
+ 1891  cd 
+ 1892  ext install GitHub.vscode-pull-request-github
+ 1893  cd
+ 1894  ls
+ 1895  mkdir UMUZU_BC
+ 1896  cd UMUZI_BC
+ 1897  mv UMUZU_BC UMUZI_BC
+ 1898  cd UMUZI_BC
+ 1899  ls
+ 1900  git clone git@github.com:Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1901  ls
+ 1902  ls -al
+ 1903  git init
+ 1904  git clone git@github.com:Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1905  ls
+ 1906  clear
+ 1907  git remote add origin git@github.com:Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1908  ls
+ 1909  git pull git@github.com:Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1910  clear
+ 1911  ls
+ 1912  rm -rf .git
+ 1913  ls
+ 1914  ls -al
+ 1915  clear
+ 1916  git clone git@github.com:Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1917  git clone https://github.com/Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1918  ls
+ 1919  cd Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-
+ 1920  clear
+ 1921  ls
+ 1922  cat README.md
+ 1923  ls
+ 1924  cat important.md
+ 1925  vi important.md
+ 1926  git status
+ 1927  git add important.md
+ 1928  git commit -m "Update important.md"
+ 1929  git push -u origin main
+ 1930  git pull origin main
+ 1931  vi important.md
+ 1932  git status
+ 1933  git add important.md
+ 1934  git push -u origin main
+ 1935  git checkout main
+ 1936  git branch
+ 1937  ls
+ 1938  git status
+ 1939  git checkout -b important-edit
+ 1940  ls
+ 1941  git checkout main
+ 1942  vi important.md
+ 1943  git add .
+ 1944  git commit -m "Reset important.md"
+ 1945  git push -u origin main
+ 1946  git pull
+ 1947  git reset HEAD^2
+ 1948  cat important.md
+ 1949  git reset HEAD^1
+ 1950  cat important.md
+ 1951  git reset HEAD^1
+ 1952  cat important.md
+ 1953  git reset HEAD^1
+ 1954  git rebase HEAD^1
+ 1955  cat important.md
+ 1956  vi important.md
+ 1957  git add .
+ 1958  git commit -m "Reset important.md"
+ 1959  clear
+ 1960  git checkout important-edits
+ 1961  git checkout important-edit
+ 1962  ls
+ 1963  vi important.md
+ 1964  git status
+ 1965  git log
+ 1966  git merge main
+ 1967  git reset HEAD^1
+ 1968  cat important.md
+ 1969  vi important.md
+ 1970  git status
+ 1971  git commit -am "Update important.d"
+ 1972  git add important.md
+ 1973  git commit -m "Update important.md"
+ 1974  git push -u origin main
+ 1975  ls
+ 1976  cd ..
+ 1977  ls
+ 1978  git clone https://github.com/Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1979  git remote set-url https://github.com/Umuzi-org/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-.git
+ 1980  cat important.md
+ 1981  ls
+ 1982  cd Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-
+ 1983  ls
+ 1984  cat important.md
+ 1985  python3
+ 1986  cd /
+ 1987  cd
+ 1988  add-apt-repository ppa:git-core/ppa
+ 1989  sudo add-apt-repository ppa:git-core/ppa
+ 1990  sudo apt update; apt install git
+ 1991  sudo apt update;sudo apt install git
+ 1992  git --version
+ 1993  cd 
+ 1994  cd ~/UMUZI_BC/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-$
+ 1995  cd UMUZI_BC/Kenneth-Mfokeng-606-tilde-project-tutorial-how-repo-projects-work-$
+ 1996  ls
+ 1997  git statu
+ 1998  git --help
+ 1999  vscode
+ 2000  ./vscode
+ 2001  clear
+ 2002  ls
+ 2003  cd UMUZI_BC
+ 2004  ls
+ 2005  clear
+ 2006  mkdir git-basic-exercises
+ 2007  cd git-basic-exercises
+ 2008  clear
+ 2009  ls -a
+ 2010  git init
+ 2011  la -a
+ 2012  git status
+ 2013  touch README.md
+ 2014  ls -a
+ 2015  git status
+ 2016  git log
+ 2017  git add README.md
+ 2018  git status
+ 2019  git commit -m "initial commit"
+ 2020  git log
+ 2021  clear
+ 2022  nano README.md
+ 2023  cat README.md
+ 2024  git status
+ 2025  git commit -am "second commit"
+ 2026  vi README.md
+ 2027  cat README.md
+ 2028  git commit -am "third commit"
+ 2029  clear
+ 2030  git log
+ 2031  git checkout 1f83ec11ff9307964a89a2ab3abdb8aea3b8346e
+ 2032  cat README.md
+ 2033  git log
+ 2034  git checkout main
+ 2035  cat README.md
+ 2036  clear
+ 2037  ls
+ 2038  cat README.md
+ 2039  git branch
+ 2040  git -c
+ 2041  git -c milkshake-flavours
+ 2042  clear
+ 2043  git branch milkshake-flavours
+ 2044  git branch
+ 2045  git switch milkshake-flavours
+ 2046  git branch
+ 2047  vi milkshakes.md
+ 2048  git status
+ 2049  git commit 
+ 2050  git -am "added initial flavours"
+ 2051  clear
+ 2052  git add milkshakes.md
+ 2053  git commit -m "added initial flavours"
+ 2054  git log
+ 2055  git switch main
+ 2056  ls
+ 2057  git log
+ 2058  git checkout -b history
+ 2059  git log
+ 2060  git branch
+ 2061  ls
+ 2062  history > history.txt
+ 2063  ls
+ 2064  git switch main
+ 2065  ls
+ 2066  git switch milkshake-flaovours
+ 2067  git switch milkshake-flavours
+ 2068  ls
+ 2069  git switch history
+ 2070  clear
+ 2071  ls
+ 2072  git status
+ 2073  switch main
+ 2074  git switch main
+ 2075  git status
+ 2076  git switch history
+ 2077  clear
+ 2078  git add history.txt
+ 2079  alias ci='git commit'
+ 2080  ci -m "added history"
+ 2081  alias st='git status'
+ 2082  st
+ 2083  clear
+ 2084  st
+ 2085  alias gl='git log'
+ 2086  gl
+ 2087  alias gc='git commit'
+ 2088  alias gs='git status'
+ 2089  alias gl='git log'
+ 2090  alias ga='git add'
+ 2091  clear
+ 2092  gl
+ 2093  alias gst='git status'
+ 2094  alias gsw='git switch'
+ 2095  clear
+ 2096  gti branch
+ 2097  git branch
+ 2098  gsw milkshake-flavours
+ 2099  clear
+ 2100  git branch
+ 2101  gl
+ 2102  vi README.md
+ 2103  gst
+ 2104  gc -am "random readme changes"
+ 2105  gsw history
+ 2106  cat README.md
+ 2107  rm README.md
+ 2108  echo 'booya' > README.md
+ 2109  gdt
+ 2110  gst
+ 2111  gc -am "rewrote readme"
+ 2112  gsw main
+ 2113  alias gco='git checkout'
+ 2114  clear
+ 2115  git branch
+ 2116  gco main
+ 2117  ls
+ 2118  gl
+ 2119  gco milkshake-flavours
+ 2120  ls
+ 2121  gl
+ 2122  gco history
+ 2123  ls
+ 2124  gl
+ 2125  gco main
+ 2126  clear
+ 2127  git merge milkshake-flavours
+ 2128  ls
+ 2129  gl
+ 2130  gsw main
+ 2131  gl
+ 2132  git merge history
+ 2133  vi README.md
+ 2134  git merge history
+ 2135  vi README.md
+ 2136  echo "booya"
+ 2137  echo "booya" > README.md
+ 2138  git merge history
+ 2139  git status
+ 2140  git add README.md
+ 2141  gst
+ 2142  git merge history
+ 2143  gc -m "resolve merge conflict"
+ 2144  git merge history
+ 2145  clear
+ 2146  gst
+ 2147  gl
+ 2148  clear
+ 2149  gco history
+ 2150  gl
+ 2151  gco milkshake-flavours
+ 2152  gl
+ 2153  clear
+ 2154  git remote add origin https://github.com/Kenneth-bit/git-basic-exercises.git
+ 2155  git branch -M main
+ 2156  git push -u origin main
+ 2157  clear
+ 2158  git push -u origin main
+ 2159  git branch
+ 2160  gco milkshakes
+ 2161  gco milkshake-flavours
+ 2162  gl
+ 2163  git checkout 0f84e2c6821bd4903c1752fb2e62aa602f1e8b27
+ 2164  clear
+ 2165  git branch
+ 2166  gco milkshake-flavours
+ 2167  gl
+ 2168  gco 1f83ec11ff9307964a89a2ab3abdb8aea3b8346e
+ 2169  git branch
+ 2170  clear
+ 2171  gco main
+ 2172  clear
+ 2173  git push --set-upstream history
+ 2174  git push -u origin history
+ 2175  git status
+ 2176  gco history
+ 2177  git push -u origin main
+ 2178  clear
+ 2179  cat history.txt
+ 2180  clear
+ 2181  gl
+ 2182  git branch
+ 2183  gco main
+ 2184  clear
+ 2185  gl
+ 2186  git rebase 96df3dd02459253cff5876b62d7fe5b77e2f517e
+ 2187  gl
+ 2188  git branch
+ 2189  clear
+ 2190  cd ..
+ 2191  ls
+ 2192  rm -r git-basic-exercises
+ 2193  y
+ 2194  yclear
+ 2195  clear
+ 2196  ls
+ 2197  cd git-basic-exercises
+ 2198  l
+ 2199  ls
+ 2200  ls -a
+ 2201  rm -rf .git
+ 2202  clear
+ 2203  ls -a
+ 2204  cd ..
+ 2205  rm -r git-basic-exercises
+ 2206  ls
+ 2207  clear
+ 2208  mkdir git-basic-exercises
+ 2209  d git-basic-exercises
+ 2210  cd git-basic-exercises
+ 2211  clear
+ 2212  ls
+ 2213  ls -a
+ 2214  git init
+ 2215  ls -a
+ 2216  clear
+ 2217  gst
+ 2218  touch README.md
+ 2219  gst
+ 2220  clear
+ 2221  alias ga="git add"
+ 2222  clear
+ 2223  gl
+ 2224  ga README.md
+ 2225  gst
+ 2226  git rm --cached README.md
+ 2227  gst
+ 2228  ga README.md
+ 2229  gc -m "initial commit"
+ 2230  gl
+ 2231  clear
+ 2232  alias cl='clear'
+ 2233  cl
+ 2234  nano README.md
+ 2235  cat README.md
+ 2236  cl
+ 2237  gst
+ 2238  gc -am "second commit"
+ 2239  cl
+ 2240  gl
+ 2241  nano README.md
+ 2242  cl
+ 2243  gst
+ 2244  gc -am "third commit"
+ 2245  clear
+ 2246  gl
+ 2247  git branch
+ 2248  clear
+ 2249  gl
+ 2250  gco f9845da117294b763dab475484b1e79360a4629d
+ 2251  cat README.md
+ 2252  gsw main
+ 2253  gco f9845da117294b763dab475484b1e79360a4629d
+ 2254  gco main
+ 2255  clear
+ 2256  cat README.md
+ 2257  ls
+ 2258  cat README.md
+ 2259  alias gbr="git branch"
+ 2260  clear
+ 2261  gbr
+ 2262  gbr milkshake-flavours
+ 2263  gbr
+ 2264  gsw milkshake-flavours
+ 2265  gbr
+ 2266  cl
+ 2267  ls a
+ 2268  ls -a
+ 2269  cl
+ 2270  gbr
+ 2271  gco milkshake-flavours
+ 2272  nano milkshakes.md
+ 2273  gst
+ 2274  ga milkshakes.md
+ 2275  gc -m "added initial flavours"
+ 2276  cl
+ 2277  gst
+ 2278  gl
+ 2279  gsw main
+ 2280  gl
+ 2281  gsw milkshake-flavours
+ 2282  gl
+ 2283  gbr
+ 2284  cl
+ 2285  gsw main
+ 2286  gbr history
+ 2287  gbr
+ 2288  gsw history
+ 2289  gl
+ 2290  gbr
+ 2291  cat history.txt
+ 2292  clear
+ 2293  gbr
+ 2294  ls
+ 2295  history > history.txt
