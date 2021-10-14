@@ -2,4 +2,4 @@
 
 ## Umuzi Bootcamp
 
-### Author: Kenneth-bit
+### Author: Kenneth, The Coder
